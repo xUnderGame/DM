@@ -1,0 +1,18 @@
+{
+	"1":{
+		"name":"Fastest Message in the West",
+		"desc":"First player to say 'bang' on chat wins!",
+		"type":"fastest_message_content",
+		"message":"bang",
+		"waitfor":2,
+		"timeout":8
+	},
+	"2":{
+		"name":"Reaction Mayhem",
+		"desc":"First player to react with the specific reaction wins!",
+		"type":"fastest_reaction_randomized",
+		"reaction":":heart:",
+		"waitfor":2,
+		"timeout":8
+	}
+}
