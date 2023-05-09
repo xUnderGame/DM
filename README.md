@@ -16,4 +16,4 @@ Step 6: Run main.py and have fun!
 ```
 
 ## Download
-Click [here](https://github.com/xUnderGame/DM/releases/tag/v1.0.0-alpha) to download the lastest version of this bot.
+Click [here](https://github.com/xUnderGame/DM/releases/tag/v1.0.0-alpha) to download the latest version of this bot.
